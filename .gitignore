@@ -1,14 +1,18 @@
 
 
-# Folder   .idea/
- .idea/
+[Oo]bj
+[Bb]in
+*.user
+*.suo
+*.[Cc]ache
+*.bak
+*.ncb
+*.log
 
-# Folder  target/
-  target/
+target/
+.classpath
+.project
+.settings
 
- # File README.md
- README.md
-
-
-
-
+*.DS_Store
+[Tt]humbs.db
